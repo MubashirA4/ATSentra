@@ -1,0 +1,51 @@
+:root {
+  /* Forest */
+  --color-forest-950: #14251e;
+  --color-forest-900: #1d3329;
+  --color-forest-800: #29473a;
+  --color-forest-700: #365c4b;
+  --color-forest-600: #4a725f;
+
+  /* Mint */
+  --color-mint-500: #4fa878;
+  --color-mint-400: #68bb8d;
+  --color-mint-300: #9bd5b4;
+  --color-mint-100: #e3f2e9;
+
+  /* Cooler / less pink cream */
+  --color-cream-50: #fafcf9;
+  --color-cream-100: #f4f7f3;
+  --color-cream-200: #e9eee9;
+  --color-cream-300: #d9e2dc;
+
+  /* Text */
+  --color-text-primary: #17231e;
+  --color-text-secondary: #56645d;
+  --color-text-muted: #7d8983;
+
+  /* Semantic */
+  --color-success: #3f9b68;
+  --color-warning: #b78336;
+  --color-danger: #bd5555;
+  --color-info: #5e8299;
+
+  /* Borders */
+  --color-border: #d9e2dc;
+  --color-border-light: #e7ece8;
+
+  /* Surfaces */
+  --color-background: #f4f7f3;
+  --color-surface: #ffffff;
+  --color-surface-muted: #fafcf9;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(20, 37, 30, 0.04);
+  --shadow-md: 0 4px 14px rgba(20, 37, 30, 0.06);
+  --shadow-lg: 0 12px 32px rgba(20, 37, 30, 0.08);
+}
